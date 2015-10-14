@@ -38,7 +38,6 @@ aldeed:autoform-bs-datepicker
 email
 fastclick
 tomwasd:flow-router-autoscroll
-twbs:bootstrap
 logging
 reload
 random
@@ -50,3 +49,4 @@ kadira:blaze-layout
 kadira:flow-router
 
 useraccounts:core
+twbs:bootstrap
